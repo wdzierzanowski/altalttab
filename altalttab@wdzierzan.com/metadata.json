@@ -1,0 +1,6 @@
+{
+    "name": "Alt-Alt+Tab",
+    "description": "Make Alt+Tab prefer windows in the active workspace",
+    "uuid": "altalttab@wdzierzan.com",
+    "shell-version": ["3.16.3"]
+}
